@@ -13,9 +13,9 @@ The study participants included 3 women and 3 men. The average age, height and w
 | 40 | 5 min | Break – standing position | 13:11:10/ 13:17:21\*\* | 10:38:53 | 11:21:32 | 14:02:00\* | 12:46:40 | 10:38:51 |
 | 45 | 15 min | Treadmill walk at 5 km/h | 13:22:21 | 10:43:53 | 11:36:32 | 14:07:00 | 12:51:40 | 10:43:51 |
 | 60 | 5 min | Break – standing position | 13:37:21 | 10:58:53 | 11:51:32 | 14:22:00 | 13:06:40 | 10:58:51 |
-| 65 | 5 min | Cable exercises, dynamic movements, 1 repetition every 30 s | 13:42:21 | 11:03:53 | 11:56:32 | 14:27:00 | 13:11:40 | 11:03:51 |
+| 65 | 5 min | Upper lift exercises, dynamic movements, 1 repetition every 30 s | 13:42:21 | 11:03:53 | 11:56:32 | 14:27:00 | 13:11:40 | 11:03:51 |
 | 70 | 5 min | Break – standing position | 13:47:21 | 11:08:53 | 12:01:32 | 14:32:00 | 13:16:40 | 11:08:51 |
-| 75 | 5 min | Cable exercises, slow movements, 1 repetition every 30 s | 13:56:00\*\*\* | 11:13:53 | 12:06:32 | 14:37:00 | 13:21:40 | 11:13:51 |
+| 75 | 5 min | Upper lift exercises, slow movements, 1 repetition every 30 s | 13:56:00\*\*\* | 11:13:53 | 12:06:32 | 14:37:00 | 13:21:40 | 11:13:51 |
 | 80 | 5 min | Break after the test – sitting position | 14:01:00 | 11:18:53 | 12:11:32 | 14:42:00 | 13:26:40 | 11:18:51 |
 | 85 (end time) | – | END | 14:06:00 | 11:23:53 | 12:16:32 | 14:47:00 | 13:31:40 | 11:23:51 |
 
