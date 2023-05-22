@@ -12,9 +12,8 @@ The repository contains both the raw and the "merged", clean data. The merged da
 
 ## Authors
 
-- [Piotr Sowiński](https://orcid.org/0000-0002-2543-9461) – data collection and processing
 - [Monika Kobus](https://orcid.org/0000-0003-3217-1050) – data collection
-- [Anastasiya Danilenka](https://orcid.org/0000-0002-3080-0303) – data collection
+- [Piotr Sowiński](https://orcid.org/0000-0002-2543-9461) – data collection and processing
 - [Central Institute for Labour Protection – National Research Institute's](https://www.ciop.pl/en) team – providing facilities and equipment for data collection
 
 ## Acknowledgements
