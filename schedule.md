@@ -21,6 +21,7 @@ The study participants included 3 women and 3 men. The average age, height and w
 
 ## Notes
 
+- For P6, the wristband's clock was ahead of the Equivital device's clock by 24 seconds. The difference was corrected at 10:06:20.
 - \* Around the 35-minute mark the wristband disconnected from the laptop. It was subsequently reconnected. The walk lasted for 17 minutes and the break started at 14:02.
 - \*\* A software failure occured at the 40-minute mark. The walk was stopped at 13:11:10. The study was resumed at 13:17:21 (start of the break).
 - \*\*\* At 13:50 a software failure occured. The study and the participant's break were resumed at 13:53:00. The break lasted until 13:56:00.
