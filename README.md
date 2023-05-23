@@ -13,12 +13,14 @@ The repository contains both the raw and the "merged", clean data. The merged da
 ## Authors
 
 - [Monika Kobus](https://orcid.org/0000-0003-3217-1050) – data collection
+- [Anna Dąbrowska](https://orcid.org/0000-0003-4295-3005) – data collection
 - [Piotr Sowiński](https://orcid.org/0000-0002-2543-9461) – data collection and processing
-- [Central Institute for Labour Protection – National Research Institute's](https://www.ciop.pl/en) team – providing facilities and equipment for data collection
 
 ## Acknowledgements
 
 This work is part of the [ASSIST-IoT project](https://assist-iot.eu/) that has received funding from the EU’s Horizon 2020 research and innovation programme under grant agreement No 957258.
+
+The [Central Institute for Labour Protection – National Research Institute's](https://www.ciop.pl/en) provided facilities and equipment for data collection.
 
 ## License
 
